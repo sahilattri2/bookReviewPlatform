@@ -70,24 +70,9 @@ A full-stack web application where users can:
 - No email verification or password reset.
 - No user profile or admin panel.
 - No file/image upload for books or users.
-- Basic error handling (can be improved).
-
-## Testing
-- Frontend: You may add tests using React Testing Library if desired.
-- To run tests: `cd frontend && npm test`
-
-## How to Deploy
-- **Backend:** Deploy to Render, Railway, or Heroku. Set environment variables accordingly.
-- **Frontend:** Deploy to Vercel or Netlify. Update API base URL in `frontend/src/api/axios.js` if needed.
-
-## Demo & Submission
-- Record a Loom video walkthrough (5 min) of your app and code structure.
-- Push code to GitHub with clear commit history.
-- Submit GitHub repo, Loom link, and this README as required.
-
+- Basic error handling (can be improved)
+  
 ### Loom Video Walkthrough
 [Paste your Loom video link here]
 
 ---
-
-**Enjoy your Book Review Platform!** 
