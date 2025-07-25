@@ -73,6 +73,6 @@ A full-stack web application where users can:
 - Basic error handling (can be improved)
   
 ### Loom Video Walkthrough
-[Paste your Loom video link here]
+[https://www.loom.com/share/f7e4dc49bfc045aa9b55ae8f6d03fa5b?sid=93f94bdf-cf72-4de0-a12e-99394509c7c8]
 
 ---
